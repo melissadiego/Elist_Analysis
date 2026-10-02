@@ -19,7 +19,7 @@ This project analyzes EList's multi-year transactional order data (2019–2022) 
 Between 2019 and 2022, EList Electronics generated **$28.11M** in total revenue across 108,124 orders, maintaining an average monthly revenue of **$585.68K**.
 
 
-<img width="651" height="377" alt="image" src="https://github.com/user-attachments/assets/db04e84f-b884-4009-91d8-e2a706e1fd39" />
+<img width="1127" height="742" alt="image" src="https://github.com/user-attachments/assets/bf175368-cd75-438b-8cde-c5384ae20c0e" />
 
 
 * **Macro Trajectory:** Significant pandemic-era growth peaked in late 2020, followed by a period of post-peak stabilization and gradual decline.
@@ -46,19 +46,13 @@ EList's performance featured massive growth in 2020, followed by a severe post-p
 * **2021 Stabilization (-10%):** Revenue dipped slightly by **-10% YoY** as the market adjusted to high baseline comparisons set during the previous year's record surge.
 * **2022 Post-Pandemic Correction (-46%):** Performance contracted significantly with a **-46% YoY decline**, reflecting macroeconomic headwinds, shifting consumer spending habits, and stabilizing post-pandemic demand.
 
-<img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/dc0cc3c2-03e9-456e-a873-f359804bb642" />
-
-
+<img width="661" height="375" alt="image" src="https://github.com/user-attachments/assets/ef87aee5-5155-413c-8846-dbedd5f8c457" />
 
 ### Monthly Volatility (MoM)
 * **Peak MoM Increase (+50.3%):** The highest single-month expansion reached **+50.3%**, driven by strong seasonal promotional pushes and peak sales cycles (December 2020).
 * **Maximum MoM Drop (-55.2%):** Conversely, the sharpest month-over-month drop reached **-55.2%**, highlighting substantial revenue volatility following holiday shopping surges and off-peak transitions.
 
-<img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/2d7adcc7-f76b-4a15-b49d-6dfc02e1074e" />
-
-
-
-
+<img width="675" height="402" alt="image" src="https://github.com/user-attachments/assets/df9c07f5-c126-4bbf-999f-21eeb0493f43" />
 
 
 ## Loyalty Program Performance & Strategic Recommendation
@@ -75,7 +69,7 @@ Customer engagement metrics reveal a more nuanced picture than the notion that "
 
  
 * **Average Order Value (AOV):** Non-loyalty customers generate a higher average basket size at $274.61 compared to $240.23 for loyalty members, a $34.43 gap per order.
-* **Purchase Frequency:** Non-loyalty customers actually show marginally higher purchase frequency per user (1.26) than loyalty members (1.16). This small gap in absolute terms doesn't support a claim that the loyalty program drives more frequent repeat purchases; the program's value case rests on revenue stability and predictability, not on outpacing non-members in either AOV or frequency.
+* **Purchase Frequency:** Non-loyalty customers actually show marginally higher purchase frequency per user (1.26) than loyalty members (1.16). This small gap doesn't support a claim that the loyalty program drives more frequent repeat purchases; the program's value case rests on revenue stability and predictability, not on outpacing non-members in either AOV or frequency.
 
 
 <img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/262d5f8d-fc85-4fc0-bafc-ee7cc39a53f2" />
@@ -98,7 +92,7 @@ On a per-transaction and per-customer basis, non-loyalty customers currently out
 
 * **Operational & Data Governance Note:** Recorded refund rates trended downward to 0.00% in 2022. This pattern reflects a known post-2021 data logging/ingestion cutoff in the raw dataset, not flawless fulfillment. The Refund Timestamp values are no longer populated after 2021. This requires a pipeline audit before drawing any conclusions about product return performance or customer satisfaction.
   
-<img width="1105" height="756" alt="image" src="https://github.com/user-attachments/assets/0d8535db-8ef0-4c0e-a83a-790714a1b127" />
+<img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/0d8535db-8ef0-4c0e-a83a-790714a1b127" />
 
 
 
@@ -106,7 +100,7 @@ On a per-transaction and per-customer basis, non-loyalty customers currently out
 
 Based on executive-level trends across sales volume, loyalty adoption, and operational quality from 2019–2022, EList should execute three primary strategies to reignite growth and optimize profitability:
 
-<img width="1110" height="752" alt="image" src="https://github.com/user-attachments/assets/4f0ff716-5a26-4ad6-a208-6bb67b7325bc" />
+<img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/4f0ff716-5a26-4ad6-a208-6bb67b7325bc" />
 
 
 ### 1. Bridge the Loyalty AOV and Frequency Gap
