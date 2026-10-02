@@ -82,22 +82,22 @@ Customer engagement metrics reveal a more nuanced picture than the simple assump
 
 #### Key Behavioral Metrics
 
-* **Average Order Value (AOV):** Non-loyalty customers generate a higher average basket size at **$274.61** compared to **$240.23** for loyalty members—a **$34.38** gap per order[cite: 7, 10, 11, 13].
-* **Purchase Frequency:** Non-loyalty customers demonstrate a slightly higher purchase frequency per user (**1.26 orders**) than loyalty members (**1.16 orders**)[cite: 8, 10, 11, 13]. This gap confirms that the loyalty program is not currently driving higher order volume per customer; instead, its strategic value lies in providing revenue predictability and stability during market pullbacks [cite: 6, 10].
+* **Average Order Value (AOV):** Non-loyalty customers generate a higher average basket size at **$274.61** compared to **$240.23** for loyalty members a **$34.38** gap per order
+* **Purchase Frequency:** Non-loyalty customers demonstrate a slightly higher purchase frequency per user (**1.26 orders**) than loyalty members (**1.16 orders**). This gap confirms that the loyalty program is not currently driving higher order volume per customer; instead, its strategic value lies in providing revenue predictability and stability during market pullbacks 
 
 #### Verdict: Retain the Loyalty Program, but Reassess Its Value Proposition
 
 
 <img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/262d5f8d-fc85-4fc0-bafc-ee7cc39a53f2" />
 
-On a per-transaction and per-customer basis, non-loyalty customers currently outperform loyalty members across both AOV and purchase frequency[cite: 7, 8, 10, 11]. However, EList should retain the program: its rapid adoption and sustained revenue contribution through the 2021–2022 market contraction established an essential revenue cushion[cite: 6]. 
+On a per-transaction and per-customer basis, non-loyalty customers currently outperform loyalty members in both AOV and purchase frequency. However, EList should retain the program: its rapid adoption and sustained revenue contribution through the 2021–2022 market contraction created an essential revenue cushion. 
 
-Rather than assuming the program inherently creates behavioral loyalty (larger, more frequent orders), EList must recognize this gap as a key program design opportunity to actively incentivize repeat high-value behavior[cite: 10].
+Rather than assuming the program inherently creates behavioral loyalty (larger, more frequent orders), EList must treat this gap as a key design opportunity to actively incentivize repeat, high-value behavior.
 
 #### Actionable Next Steps
 
-1. **Bridge the AOV and Frequency Gap:** Introduce tiered reward thresholds (e.g., *"Spend $275 to unlock free expedited shipping or double points"*) to elevate member order value past non-member baselines, along with frequency-based incentives (e.g., a bonus discount on a 3rd purchase)[cite: 10].
-2. **Re-verify Program ROI & Acquisition Mechanics:** Given that loyalty members currently track lower on AOV and frequency, confirm what specific operational benefits (e.g., lower customer acquisition cost, higher multi-year retention) offset program expenses before allocating additional marketing budget[cite: 10].
+1. **Bridge the AOV and Frequency Gap:** Introduce tiered reward thresholds (e.g., *"Spend $275 to unlock free expedited shipping or double points"*) to elevate member order value past non-member baselines, along with frequency-based incentives (e.g., a bonus discount on a 3rd purchase)
+2. **Re-verify Program ROI & Acquisition Mechanics:** Given that loyalty members currently track lower on AOV and frequency, confirm what specific operational benefits (e.g., lower customer acquisition cost, higher multi-year retention) offset program expenses before allocating additional marketing budget.
    
 <img width="661" height="401" alt="image" src="https://github.com/user-attachments/assets/3261dd53-0c68-4762-9a80-672d860c57b8" />
 
